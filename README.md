@@ -3,7 +3,7 @@
 
 
 ## 🧠 Project Overview
-This repository contains a **prototype solution** developed for the **FedEx Smart Hackathon 2025**.  
+This repository contains a **prototype solution** developed for the **FedEx Smart Hackathon 2026**.  
 The project focuses on automating and improving the **Debt Collection Agency (DCA)** workflow using data analytics and machine learning.
 
 The goal is to replace manual, slow processes with a **centralized, data-driven system**.
