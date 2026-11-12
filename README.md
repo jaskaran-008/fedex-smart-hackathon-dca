@@ -1,7 +1,6 @@
 # 🚀 FedEx Smart Hackathon 2026
 ## 📦 Debt Collection Agency (DCA) Automation System
 
----
 
 ## 🧠 Project Overview
 This repository contains a **prototype solution** developed for the **FedEx Smart Hackathon 2025**.  
@@ -10,7 +9,7 @@ The project focuses on automating and improving the **Debt Collection Agency (DC
 The goal is to replace manual, slow processes with a **centralized, data-driven system**.
 
 Data Source : Kaggle credit risk dataset
----
+
 
 ## 🎯 Problem Statement
 FedEx Smart Center collaborates with multiple external DCAs to recover overdue loans.  
